@@ -1,6 +1,6 @@
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fabdulwasio2521&style=flat)](https://rankistan.dev/#abdulwasio2521)
 
-<h1>👋 Hi, I'm Jameel Ahmed!</h1>
+<h1>👋 Hi, I'm Wasi!</h1>
 
 <p align="center">
 <code><b>Software Engineering Student</b></code> •
