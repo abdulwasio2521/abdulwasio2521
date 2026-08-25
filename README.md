@@ -6,7 +6,7 @@
 <code><b>Software Engineering Student</b></code> •
 <code><b>Java Developer</b></code> •
 <code><b>C++ Developer</b></code> •
-<code><b>Tech Enthusiast</b></code>
+<code><b>Fronted Developer</b></code>
 </p>
 
 <p align="center">
