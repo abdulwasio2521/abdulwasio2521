@@ -99,8 +99,8 @@ exploring new technologies and improving my development skills.
 
 <h2>📊 GitHub Activity & Analytics</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwasio2521&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
 <img src="https://github-readme-stats.shion.dev/api?username=abdulwasio2521&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Jameel's GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulwasio2521&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
 
 </div>
