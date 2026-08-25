@@ -39,61 +39,7 @@ exploring new technologies and improving my development skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<div align="center">
-
-<h2>💻 Tech Stack & Tooling Ecosystem</h2>
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,java,html,git,github,vscode,mysql&theme=dark" alt="Jameel's Tech Stack" />
-</a>
-</p>
-
-<br/>
-
-<h3>☕ Programming Languages</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<br/>
-
-<h3>🌐 Web & Database</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-<br/>
-
-<h3>🔧 Version Control & Tools</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-<br/>
-
-<h3>🎨 Creative Skills</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Graphics-%23EC4899?style=for-the-badge&logo=adobe&logoColor=white" alt="Graphics" />
-</p>
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <div align="center">
 
