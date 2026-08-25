@@ -15,22 +15,6 @@
 </a>
 </p>
 
-<br/>
-
-<p align="center">
-<a href="mailto:adeeljameel810@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jameel-ahmed-khuhro-50017a376/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/adeeljameel810-byte" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=adeeljameel810-byte&label=⚡%20Profile%20Views&color=ec4899&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -51,14 +35,6 @@ problem solving, and building practical software projects.<br/>
 I enjoy working with <b>Java, C++, SQL, HTML, Git, and GitHub</b> while continuously
 exploring new technologies and improving my development skills.
 </p>
-
-<blockquote>
-🌸 <i>"Learn with curiosity. Build with purpose. Grow with consistency."</i>
-</blockquote>
-
-</div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
