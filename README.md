@@ -38,55 +38,6 @@ exploring new technologies and improving my development skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-<h3 align="center">☕ Programming</h3>
-
-☕ <b>Java</b><br><br>
-⚡ <b>C++</b><br><br>
-🧩 <b>Object-Oriented Programming</b><br><br>
-🧠 <b>Problem Solving</b><br><br>
-📚 <b>Data Structures Basics</b>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🌐 Web & Database</h3>
-
-🗄️ <b>SQL</b><br><br>
-🌐 <b>HTML</b><br><br>
-🧱 <b>Database Fundamentals</b><br><br>
-🔗 <b>GitHub Projects</b><br><br>
-🎨 <b>Graphics & Creative Work</b>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🛠️ Development Tools</h3>
-
-🔧 <b>Git</b><br><br>
-🐙 <b>GitHub</b><br><br>
-💻 <b>VS Code</b><br><br>
-🛠️ <b>Development Tools</b><br><br>
-📈 <b>Continuous Learning</b>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
