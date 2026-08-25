@@ -99,33 +99,9 @@ exploring new technologies and improving my development skills.
 
 <h2>📊 GitHub Activity & Analytics</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeeljameel810-byte&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwasio&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
-<br/><br/>
-
-<h3>🐍 GitHub Contribution Grid Snake</h3>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api?username=adeeljameel810-byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Jameel's GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=abdulwasio2521&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Jameel's GitHub Stats" width="49%" />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adeeljameel810-byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p>
-✨ <b>Learn • Build • Grow</b> |
-Crafted with passion by <b>Jameel Ahmed</b>
-</p>
-
 </div>
